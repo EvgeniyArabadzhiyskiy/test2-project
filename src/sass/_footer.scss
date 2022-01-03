@@ -1,4 +1,5 @@
 .page-footer {
+  background-color: #5dd2d6;
   &__item {
     margin-right: 30px;
     &:last-child {
@@ -9,6 +10,6 @@
   &__link {
     text-decoration: none;
     font-size: 22px;
-    color: rgb(236, 33, 209);
+    color: #ce1186;
   }
 }
