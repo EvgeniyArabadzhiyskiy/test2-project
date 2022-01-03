@@ -1,0 +1,15 @@
+.page-footer {
+  background-color: #5dd2d6;
+  &__item {
+    margin-right: 30px;
+    &:last-child {
+      margin-right: 0;
+    }
+  }
+
+  &__link {
+    text-decoration: none;
+    font-size: 22px;
+    color: #ce1186;
+  }
+}
