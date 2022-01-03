@@ -1,0 +1,14 @@
+.page-footer {
+  &__item {
+    margin-right: 30px;
+    &:last-child {
+      margin-right: 0;
+    }
+  }
+
+  &__link {
+    text-decoration: none;
+    font-size: 22px;
+    color: rgb(236, 33, 209);
+  }
+}
